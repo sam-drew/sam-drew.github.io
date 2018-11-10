@@ -182,11 +182,10 @@ As previously stated, markdown uses simple punctuation syntax to format text. Th
 				<span class="spaces">····</span>print 'indent 4 spaces'
 			</td>
 			<td>
-				<div class="code-block">
-				# code block
-				<br> print '3 backticks or'
-				<br> print 'indent 4 spaces'
-				</div>
+				<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code># code block
+print '3 backticks or'
+print 'indent 4 spaces'
+</code></pre></div></div>
 			</td>
 		</tr>
 	</tbody>
