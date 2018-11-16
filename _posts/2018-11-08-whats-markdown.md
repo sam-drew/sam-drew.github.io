@@ -7,7 +7,7 @@ Markdown is a file format that makes it pretty easy to make nice looking documen
 
 The goal of markdown in my eyes is to make it easier for a person to get ideas down quickly and format them well with very little effort.  
 
-Markdown was created in 2004 by [John Gruber](https://daringfireball.net) as a tool for people who don't know how to write HTML to produce web pages from plain text. It was originaly published as a [syntax definition](https://daringfireball.net/projects/markdown/syntax) and a Perl script that would convert markdown to HTML.
+Markdown was created in 2004 by [John Gruber](https://daringfireball.net) as a tool for people who don't know how to write HTML to produce web pages from plain text. It was originally published as a [syntax definition](https://daringfireball.net/projects/markdown/syntax) and a Perl script that would convert markdown to HTML.
 
 >Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML).
 
@@ -191,12 +191,12 @@ print 'indent 4 spaces'
 	</tbody>
 </table>
 
-Markdown also supports writing raw HTML into the document, and *should* render it as writen (this can depend on the parser you're using).  
+Markdown also supports writing raw HTML into the document, and *should* render it as written (this can depend on the parser you're using).  
 
 As you can see, with a few simple pieces of syntax, it's possible to quickly produce well formatted and very easy to read documents using Markdown.  
 
 Markdown files use the extension `.md` or `.markdown`.  
 
-Markdown is used by and integrated with many of the services you probably already use, such as [GitHub](https://github.com), [Read the Docs](https://readthedocs.org/), [Stack Overflow](https://stackoverflow.com), and static site generators such as [Jekyll](https://jekyllrb.com) and [Hugo](https://gohugo.io). Markdown is also used by journalists, and has led to the creation of tools such as [Hemmingway](https://hemmingwayapp.com).  
+Markdown is used by and integrated with many of the services you probably already use, such as [GitHub](https://github.com), [Read the Docs](https://readthedocs.org/), [Stack Overflow](https://stackoverflow.com), and static site generators such as [Jekyll](https://jekyllrb.com) and [Hugo](https://gohugo.io). Markdown is also used by journalists, and has led to the creation of tools such as [Hemingway](https://hemingwayapp.com).  
 
 Markdown is a brilliant tool that removes the clutter and distraction of having to use a word processor, whilst retaining just enough of the formatting power to allow you to be a more focussed and effective writer.
