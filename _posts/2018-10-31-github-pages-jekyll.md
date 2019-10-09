@@ -15,7 +15,7 @@ Jekyll isn't officially supported on Windows, however it can be used with some t
 1. Ensure that you have Ruby 2.1.0 or higher installed by opening a terminal and running the command:  
 ```
 $ ruby --version
-``` 
+```
 
 2. If Ruby is not installed, download and install it from the [Ruby website](https://www.ruby-lang.org/en/documentation/installation/).  
 
@@ -69,8 +69,8 @@ $ jekyll serve
 6. If you just want the site to build ready for pushing to deployment, use the command:  
 ```
 $ jekyll build
-``` 
- 
+```
+
 Both ```serve``` and ```build``` create the HTML files needed to deploy the site in the ```_site``` directory. Usually ```serve``` will be used in development and ```build``` before deployment.  
 
 ### Deploy Jekyll site to GitHub Pages
@@ -134,4 +134,4 @@ After a few moments, the new post will be available on your site.
 For more information about Jekyll visit their [website](https://jekyllrb.com).  
 For more information about GitHub Pages, visit [GitHub Help](https://help.github.com/categories/github-pages-basics/).  
 
-*Sam Drew, 31-10-18.*
+*Sam*

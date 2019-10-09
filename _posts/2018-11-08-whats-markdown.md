@@ -172,7 +172,7 @@ As previously stated, markdown uses simple punctuation syntax to format text. Th
 			<td class="preformatted">
 			```<br>
 			# code block<br>
-			print '3 backticks or'<br> 
+			print '3 backticks or'<br>
 			print 'indent 4 spaces'<br>
 			```
 			</td>
@@ -200,3 +200,5 @@ Markdown files use the extension `.md` or `.markdown`.
 Markdown is used by and integrated with many of the services you probably already use, such as [GitHub](https://github.com), [Read the Docs](https://readthedocs.org/), [Stack Overflow](https://stackoverflow.com), and static site generators such as [Jekyll](https://jekyllrb.com) and [Hugo](https://gohugo.io). Markdown is also used by journalists, and has led to the creation of tools such as [Hemingway](https://hemingwayapp.com).  
 
 Markdown is a brilliant tool that removes the clutter and distraction of having to use a word processor, whilst retaining just enough of the formatting power to allow you to be a more focussed and effective writer.
+
+*Sam*
