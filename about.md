@@ -4,4 +4,5 @@ title: About
 permalink: /about/
 ---
 
-About.
+This is where I write about things that I find interesting, and things I want to
+remember more easily.
