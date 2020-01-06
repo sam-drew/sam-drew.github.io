@@ -22,8 +22,6 @@ Using the published *Passenger journeys by sector* and *Passenger kilometers by 
 
 <br/>
 
----
-
 ```math
 a = total passenger journeys   fy19/20 q2 = 449,046,083.258
 b = total passenger kilometers fy19/20 q2 = 17,704,157,332.700 km
@@ -31,11 +29,22 @@ b = total passenger kilometers fy19/20 q2 = 17,704,157,332.700 km
 b/a = 39.426 km
 ```
 
+<br/>
+
+For context, the distance between Bristol Temple Meads and Bath Spa is about 18.5 km by rail - less than half the average passenger journey length.
+
+<br/>
+
 ---
 
 <br/>
 
-For context, the distance between Bristol Temple Meads and Bath Spa is about 18.5 km by rail - less than half the average passenger journey length.
+Department for Business, Energy & Industrial Strategy (2019). *Greenhouse gas reporting: conversion factors 2019*. London: gov.uk.
+
+<br/>
+
+Office of Rail and Road (2019). *Passenger Rail Usage 2019-20 Q2 Statistical Release*. Office of Rail and Road.
+
 <br/>
 
 *Sam*
